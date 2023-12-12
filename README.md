@@ -1,2 +1,2 @@
 # hugoaws
-Samole hugo website in aws
+Sample hugo website in aws
