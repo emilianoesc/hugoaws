@@ -1,8 +1,10 @@
 +++
-title = 'I created this 2023-12-12'
-date = 2023-12-12T20:29:09Z
+title = 'My First Post'
+date = 2024-01-14T07:07:07+01:00
 draft = false
 +++
+## Introduction
 
+This is **bold** text, and this is *emphasized* text.
 
-##This is some markdown
+Visit the [Hugo](https://gohugo.io) website!

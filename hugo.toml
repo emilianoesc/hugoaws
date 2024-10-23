@@ -1,4 +1,4 @@
-baseURL = 'http://hugoawsbucketemiliano.s3-website.us-east-2.amazonaws.com/'
+baseURL = 'http://hugoaws.s3-website-us-east-1.amazonaws.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = "ananke"
+theme = 'ananke'
